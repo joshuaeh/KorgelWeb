@@ -1,0 +1,23 @@
+Deliquescent Chromism of Nickel(II) Iodide Thin Films
+
+In a recent collaboration paper, <a href= "siegler.htm">Tim Siegler</a>, <a href= "alumni.htm">Mokshin Suri</a>, and <a href= "Abney.htm">Michael Abney</a>, alongside a team 
+of collaborators from the Milliron Group lead by Lauren Reimnitz, observed and studied a new phase change in thin films of nickel iodide. Showing that water vapor uptake could reversibly convert NiI2 films 
+of under 10 microns in thickness from a dark brown to an optically clear state, we demonstrated how nickel iodide thin films in ambient humidity have potential application in thermochromic smart window 
+materials with color neutral transitions. This unique approach turns a problem common to many transition metal halides - humidity instability - into a feature, taking advantage of the color change of this 
+degradation process. Find the paper, recently published in Langmuir, at this link.
+
+
+
+Role of Halides in the Ordered Structure Transitions of Heated Gold Nanocrystal Superlattices
+
+It is known that Dodecanethiol-capped gold (Au) nanocrystal superlattices can undergo a surprisingly diverse series of ordered structure transitions when heated. In this paper Yixuan Yu, Brian Goodfellow, Michael R. Rasch and Christian Bosoy showed that in the presence of halide-containing surfactants the nanocrystals ripen at much lower temperature and superlattices undergo various ordered structure transitions upon heating. This work was done in collaboration with Dr. Smilgies at Cornell High Energy Synchrotron Source (CHESS) and was recently published in Langmuir and selected as an ACS Editors' Choice article.
+
+
+
+Thermal Phase Transitions in Superlattice Assemblies of Cuboidal CH3NH3PbI3 Nanocrystals Followed by Grazing Incidence X-ray Scattering
+
+Methylammonium lead iodide (CH3NH3PbI3, or MAPI) is a prototypical lead halide perovskite material with promising optoelectronic 
+			properties for solar cells and light-emitting devices. In this paper, Yangning Zhang, Cherrelle Thomas, and Adrien Guillaussier reported the thermal phase transitions that occur in superlattices of MAPI nanocrystals observed using in-situ grazing incidence small-angle and wide-angle X-ray scattering (GISAXS and GIWAXS). 
+GIWAXS shows that the nanocrystals have completed a tetragonal-to-cubic phase transition at 55-60C similar to bulk films and begin to degrade at 90C, when PbI2 
+begins to form. Both hexagonal and rhombohedral phases of PbI2 are observed as thermal degradation products at 150C. GISAXS shows that the superlattice remains 
+stable until 90C. This work was done in collaboration with Dr. Smilgies at Cornell High Energy Synchrotron Source (CHESS) and was recently published in the Journal of Physical Chemistry C.
