@@ -33,4 +33,4 @@ Run `View: Show SFTP` in the command palette to show the SFTP plugin tab.
 * Remove uppercase filenames
 * Get stuff for new members
 * move people and alumni to their own subfolders
-* 
+* Add permalinks to all articles
