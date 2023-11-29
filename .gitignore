@@ -60,3 +60,6 @@ Thumbs.db
 #*.png
 #*.jpeg
 *.psd
+
+# misc
+src/public_html/Omnibusfiling.pdf
