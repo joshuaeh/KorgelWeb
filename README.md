@@ -95,4 +95,6 @@ Run `View: Show SFTP` in the command palette to show the SFTP plugin tab.
 [] Reisner, Stacy, Isabel, Hailey, Nha to former members  
 [] Undergrads: ~~Liam~~, Jenny Wang (?), Kara Nagasaki (?), Kimberly Wang (?)  
 [] Change webmaster link to joshua.hammond form mkabney
-[] I/UCRC name on links page   
+[] I/UCRC name on links page  
+[] Master News Page  
+[] Master Research Highlights Page   
