@@ -99,3 +99,8 @@ Run `View: Show SFTP` in the command palette to show the SFTP plugin tab.
 [] Master News Page  
 [] Master Research Highlights Page  
 [] Python script to automatically update date, webmaster etc  
+
+Broken links altered:  
+
+- Piniontechnologies.com on korgel.htm
+- removed Center for Nano nd Molecular Science link on links page: page does not exist
