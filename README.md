@@ -32,18 +32,18 @@ Run `View: Show SFTP` in the command palette to show the SFTP plugin tab.
 
 ## TODO
 
-[X] Update publications
-[X] Remove uppercase filenames
-[X] Update Jon and Brian's room numbers
-[X] Get new header images
-[] Get stuff for new members
-[] move people and alumni to their own subfolders
-[] Add permalinks to all articles
-[X] Add files for utwXXXXX/ dir
-[] Push utwXXXXX/dir then modify remote dir
-[X] Update group pictures
-[] Update group members individual pages
-[X] Update group members titles and locations
-[] Thana, _______ visiting scholar
-[] Reisner, Stacy, Isabel, Hailey, Nha to former members
-[] Undergrads: ~~Liam~~, Jenny Wang (?), Kara Nagasaki (?), Kimberly Wang (?)
+[X] Update publications  
+[X] Remove uppercase filenames  
+[X] Update Jon and Brian's room numbers  
+[X] Get new header images  
+[] Get stuff for new members  
+[] move people and alumni to their own subfolders  
+[] Add permalinks to all articles  
+[X] Add files for utwXXXXX/ dir  
+[] Push utwXXXXX/dir then modify remote dir  
+[X] Update group pictures  
+[] Update group members individual pages  
+[X] Update group members titles and locations  
+[] Thana, _______ visiting scholar  
+[] Reisner, Stacy, Isabel, Hailey, Nha to former members  
+[] Undergrads: ~~Liam~~, Jenny Wang (?), Kara Nagasaki (?), Kimberly Wang (?)  
