@@ -27,3 +27,10 @@ If it is the first time connecting, use `SFTP: config` in the command palette an
 The Remote explorer connection can help view files. However, the remote files cannot be edited.
 
 Run `View: Show SFTP` in the command palette to show the SFTP plugin tab.
+
+## TODO
+
+* Remove uppercase filenames
+* Get stuff for new members
+* move people and alumni to their own subfolders
+* 
