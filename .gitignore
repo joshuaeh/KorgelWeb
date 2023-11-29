@@ -51,12 +51,14 @@ Thumbs.db
 # Server side generated files
 .ssh/*
 .vscode-server/*
+.cache/*
 archive/*
 homes/*
 logs/*
 Maildir/*
 *.bash_logout
 *.bash_profile
+*bash_history
 *.bashrc
 *.emacs
 *.virtualmin-src
