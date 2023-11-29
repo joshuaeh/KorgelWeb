@@ -6,5 +6,5 @@ gallery[2] = new Array("c1","c2","c3","c4","c5","c6","c7","c8","c9","c10","c11",
 function pickImageFrom(whichGallery)
 {
 var idx = Math.floor(Math.random() * gallery[whichGallery].length);
-document.write('<img src="headerIMGs/' + gallery[whichGallery][idx] + '_thumb.png">');
+document.write('<img src="/headerIMGs/' + gallery[whichGallery][idx] + '_thumb.png">');
 }
