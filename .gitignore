@@ -23,19 +23,6 @@ _testmain.go
 *.test
 *.prof
 
-# auth and other misc files
-*.bash_logout
-*.bash_profile
-*.bashrc
-*.emacs
-*.virtualmin-src
-*.zshrc
-ssl.*
-*.fcgi
-
-**/.usermin/**
-**/etc/**
-
 # WebStorm
 *.iml
 
@@ -60,6 +47,24 @@ Thumbs.db
 #*.png
 #*.jpeg
 *.psd
+
+# Server side generated files
+.ssh/*
+.vscode-server/*
+archive/*
+homes/*
+logs/*
+Maildir/*
+*.bash_logout
+*.bash_profile
+*.bashrc
+*.emacs
+*.virtualmin-src
+*.zshrc
+ssl.*
+*.fcgi
+**/.usermin/**
+**/etc/**
 
 # misc
 src/public_html/Omnibusfiling.pdf
