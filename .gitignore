@@ -61,5 +61,13 @@ Thumbs.db
 #*.jpeg
 *.psd
 
+# Server side generated files
+.ssh/*
+.vscode-server/*
+archive/*
+homes/*
+logs/*
+Maildir/*
+
 # misc
 src/public_html/Omnibusfiling.pdf
