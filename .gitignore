@@ -67,6 +67,7 @@ Thumbs.db
 archive/*
 homes/*
 logs/*
+Maildir/*
 
 # misc
 src/public_html/Omnibusfiling.pdf
