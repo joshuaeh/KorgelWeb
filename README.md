@@ -97,4 +97,5 @@ Run `View: Show SFTP` in the command palette to show the SFTP plugin tab.
 [] Change webmaster link to joshua.hammond form mkabney
 [] I/UCRC name on links page  
 [] Master News Page  
-[] Master Research Highlights Page   
+[] Master Research Highlights Page  
+[] Python script to automatically update date, webmaster etc  
